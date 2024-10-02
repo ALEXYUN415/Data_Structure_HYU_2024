@@ -1,0 +1,7 @@
+T 4
+cat
+dog
+deer
+deal
+A de
+A dea
